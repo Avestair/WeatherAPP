@@ -1,3 +1,3 @@
 # WeatherAPP
 a basic current weather app 
-supports almost all languages
+made with react and tailwind css
