@@ -1,2 +1,3 @@
 # WeatherAPP
-a global current weather app 
+a basic current weather app 
+supports almost all languages
